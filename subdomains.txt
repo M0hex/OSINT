@@ -1,0 +1,15 @@
+mail
+dns
+ns
+www
+blog
+drive
+news
+m
+developers
+static
+api
+gist
+raw
+support
+admin
